@@ -1,6 +1,7 @@
 # Changelog
 
 ## Draft
+- Fix products without images not loading in account order history [#1284](https://github.com/bigcommerce/cornerstone/pull/1284)
 - Fix quantity edit on Simple Product AMP pages. [#1257](https://github.com/bigcommerce/cornerstone/pull/1257)
 - Fix empty image on carousel wrap. [#1263](https://github.com/bigcommerce/cornerstone/pull/1263)
 - Fix duplicate IDs occurrence in product options in certain situations & syntax fix in bulk-discount-rates component [#1223](https://github.com/bigcommerce/cornerstone/pull/1223)
